@@ -1,6 +1,6 @@
 ## Hello there, <s>General Kenobi</s> !
 
-### I'm Juan P. Suarez, technology enthusiast, Software Development student and IT Support Representative 👨🏻‍💻 from Córdoba, Argentina. 
+### I'm Juan P. Suarez, technology enthusiast, Software Developer Student and IT Support Representative 👨🏻‍💻 from Córdoba, Argentina. 
 
 ### Looking forward to start my career in web development.
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-- 💼 I’m pursuing a <strong>Software Development Degree</strong>.
+- 💼 I’m pursuing a <strong>Software DeveloperDegree</strong>.
 - 🌱 I’m currently learning <strong>React</strong> and <strong>SQL</strong>
 - 🤔 My research interests are with <strong>FrontEnd, BackEnd, DevOps</strong>
 - 🔍 I’m looking for career opportunities in the <strong>Web Development</strong> industry
