@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 - 💼 I’m pursuing a <strong>Software Developer Degree</strong>.
-- 🌱 I’m currently learning <strong>React</strong> and <strong>SQL</strong>
+- 🌱 I’m currently learning <strong>React, Java, Python</strong> and <strong>SQL</strong>
 - 🤔 My research interests are with <strong>FrontEnd, BackEnd, DevOps</strong>
 - 🔍 I’m looking for career opportunities in the <strong>Web Development</strong> industry
 - 💬 Feel free to discuss with me about <strong>Hardware, Software, and anything tech related!</strong>
