@@ -1,6 +1,6 @@
 ## Hello there, <s>General Kenobi</s> !
 
-### I'm Juan P. Suarez, technology enthusiast, Software Developer Student and IT Support Representative 👨🏻‍💻 from Córdoba, Argentina. 
+### I'm Juan P. Suarez, technology enthusiast, Software Developer Student and former IT Support Representative 👨🏻‍💻 from Córdoba, Argentina. 
 
 ### Looking forward to start my career in web development.
 
