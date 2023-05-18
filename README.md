@@ -8,7 +8,7 @@
 
 
 - 💼 I’m pursuing a <strong>Software Developer Degree</strong>.
-- 🔭 I’m currently working on "Mascotas Cuidadas", a <strong>React Native</strong> app in [NoCountry](https://www.nocountry.tech/perfilesit).
+- 🔭 I’m currently working on a Private Project for <strong>[Kunan S.A.](https://www.kunan.com.ar/)</strong>.
 ---
 - 🚀 I have knowledge in <strong> Python, JavaScript, ReactJs, React Native</strong> and <strong>SQL</strong>.
 - 🌱 I’m currently learning <strong> Typescript</strong> and <strong>Java</strong>
