@@ -8,7 +8,7 @@
 
 
 - 💼 I’m pursuing a <strong>Software Developer Degree</strong>.
-- 🔭 I’m currently working on a Private Project for <strong>[Kunan S.A.](https://www.kunan.com.ar/)</strong>.
+- 🔭 I’m currently working as a DevOps Engineer for <strong>[Bitlogic S.A.](https://www.Bitlogic.io/)</strong>.
 ---
 - 🚀 I have knowledge in <strong> Python, JavaScript, ReactJs, React Native, SQL</strong> and <strong>Cloud Computing</strong>.
 - 🌱 I’m currently learning <strong> AWS</strong>
