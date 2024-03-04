@@ -10,8 +10,8 @@
 - 💼 I’m pursuing a <strong>Software Developer Degree</strong>.
 - 🔭 I’m currently working on a Private Project for <strong>[Kunan S.A.](https://www.kunan.com.ar/)</strong>.
 ---
-- 🚀 I have knowledge in <strong> Python, JavaScript, ReactJs, React Native</strong> and <strong>SQL</strong>.
-- 🌱 I’m currently learning <strong> Typescript</strong> and <strong>Java</strong>
+- 🚀 I have knowledge in <strong> Python, JavaScript, ReactJs, React Native, SQL</strong> and <strong>Cloud Computing</strong>.
+- 🌱 I’m currently learning <strong> AWS</strong>
 - 🤔 My research interests are with <strong>FrontEnd, BackEnd, DevOps</strong>
 ---
 - 🔍 I’m looking for career opportunities in the <strong>Web Development</strong> industry
