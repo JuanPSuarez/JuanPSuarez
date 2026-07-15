@@ -7,14 +7,12 @@
 
 
 
-- 💼 I’m pursuing a <strong>Software Developer Degree</strong>.
-- 🔭 I’m currently working as a DevOps Engineer for <strong>[Bitlogic](https://www.Bitlogic.io/)</strong>.
+- 💼 I’m a<strong>Software Developer (Web + Mobile) </strong>.
+- 🔭 I’m currently working as a DevOps Engineer for <strong>[Vortex-IT](https://vortex-it.com/)</strong>.
 ---
-- 🚀 I have knowledge in <strong> Python, JavaScript, ReactJs, React Native, SQL</strong> and <strong>Cloud Computing</strong>.
-- 🌱 I’m currently learning <strong> AWS</strong>
+- 🚀 I have knowledge in <strong> Python, JavaScript, ReactJs, React Native, SQL, Terraform </strong> and <strong>AWS</strong>.
 - 🤔 My research interests are with <strong>FrontEnd, BackEnd, DevOps</strong>
 ---
-- 🔍 I’m looking for career opportunities in the <strong>Web Development</strong> industry
 - 💬 Feel free to discuss with me about <strong>Hardware, Software, and anything tech related!</strong>
 - 📫 How to reach me: <a href="mailto:jp.juansuarez@gmail.com" target="_blank">By email</a>
 
